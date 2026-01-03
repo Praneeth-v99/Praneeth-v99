@@ -1,5 +1,9 @@
 Senior Data Engineer  
-Azure | Databricks | PySpark | SQL | Delta Lake  
+AWS | Azure | Databricks | PySpark | SQL | Delta Lake  
 
-📌 Featured Project:
-- Lakehouse Medallion Pipeline (Bronze → Silver → Gold)
+📌 Featured Projects:
+
+* Databricks Healthcare Lakehouse
+   End-to-end Databricks Lakehouse project implementing Delta Lake medallion architecture (Bronze, Silver, Gold) with data quality checks, fraud analytics, and executive dashboards.
+
+* Lakehouse Medallion Pipeline (Bronze → Silver → Gold)
