@@ -1,5 +1,5 @@
 Senior Data Engineer  
-GCP | Azure | Databricks | PySpark | SQL | Delta Lake  
+AWS | GCP | Azure | Databricks | PySpark | SQL | Delta Lake  
 
 📌 Featured Projects:
 
